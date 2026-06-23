@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="banner"/>
+  <img src="./banner2.png" width="100%" alt="banner"/>
 </p>
 
 # ₊✩‧₊˚౨ৎ˚₊✩‧₊  𝘼𝙗𝙤𝙪𝙩 𝙕𝙪𝙝𝙖𝙮𝙧𝙖  ₊✩‧₊˚౨ৎ˚₊✩‧₊ 
