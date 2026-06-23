@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zuhayra&fontSize=60&fontAlignY=35)
+
 # ₊✩‧₊˚౨ৎ˚₊✩‧₊  𝘼𝙗𝙤𝙪𝙩 𝙕𝙪𝙝𝙖𝙮𝙧𝙖  ₊✩‧₊˚౨ৎ˚₊✩‧₊ 
 ۶۟ৎ suka design<br>۶۟ৎ coding<br>۶۟ৎ baking<br>۶۟ৎ mybe want to try embroidery<br>
 
