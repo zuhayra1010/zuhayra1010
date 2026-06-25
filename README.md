@@ -3,8 +3,8 @@
 </p>
 
 # ₊✩‧₊˚౨ৎ˚₊✩‧₊  𝘼𝙗𝙤𝙪𝙩 𝙕𝙪𝙝𝙖𝙮𝙧𝙖  ₊✩‧₊˚౨ৎ˚₊✩‧₊ 
-building things<br>that exist somewhere between<br><br>code,<br>coffee,<br>and cursed energy.<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Computer Science student, front-end enthusiast, and lifelong victim of curiosity. I love creating things that are both functional and beautiful, which is probably why I keep finding myself somewhere between code and design. Most of my free time is spent baking, reading thrillers, or falling down rabbit holes of things I suddenly decide I need to learn.
+
 ##  Socials  
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white) 
